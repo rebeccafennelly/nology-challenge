@@ -1,0 +1,437 @@
+header {
+    background-color: #3a4b96;
+    display: in-line-block;
+    height: 180px;
+   
+}
+
+
+header img {
+    width: 180px;
+    position: absolute;
+    
+}
+
+.banner img {
+    width: 100%;
+    border-radius: 0px 0px 20px 20px;
+    height: 25em;
+    
+}
+
+
+#buttons li {
+    float:left;
+    position: relative;
+    left: 520px;
+    top: 100px;
+    width: 16%;
+    text-align: center;
+    margin: 20px;
+    padding: 4px;
+    list-style: none;
+    border: 2px double lightcoral;
+    border-radius: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: gray;
+    text-decoration: none;
+    list-style: none;
+}
+
+#buttons li a{
+    color: grey;
+    text-decoration: none;
+    list-style: none;
+}
+
+#buttons li a:hover {
+    text-decoration: none;
+    color: lightgray;
+    font-weight: bold;
+
+  }
+ #aboutbit {
+     
+    height: 100vh;
+ }
+
+#rebecca {
+    background: #3a4b96;
+    position: relative;
+    bottom: 147px;
+    width: 100%;
+    height: 150px;
+    color:lightgray;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+    border-radius: 20px;
+    text-align: center;
+    font-weight: lighter;
+   
+  
+}
+
+#rebecca:hover {
+
+    font-size: 65px;
+}
+
+span {
+    font-family: 'Calibri', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 20px;
+    text-align: center;
+    color: lightcoral;
+    text-decoration: underline;
+
+
+}
+
+span:hover {
+
+    font-size: 25px;
+}
+
+body {
+
+    background: lightgray;
+ 
+}
+.homepage {
+    background: #3a4b96;
+    color: white;
+    font-family: 'Calibri', sans-serif;
+    font-style: italic;
+    border: 6px solid gray; 
+    border-radius: 20px;
+    width: 700px;
+    height: auto;
+    line-height: 1.5;
+    font-size: 20px;
+    position: relative;
+    left: 550px;
+    bottom: 550px;
+    padding: 10px;
+
+}
+
+#bex {
+
+    height: 400px;
+    border-radius: 30px;;
+    position: relative;
+    bottom: 240px;
+    left: 110px;
+    border: double 10px lightcoral;
+}
+
+#bex:hover {
+    
+    border-width: 10px;
+    border-style: solid;
+}
+
+#social {
+    
+    float: left;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    bottom: 160px;
+    left: 220px;
+    text-decoration: none;
+    color: white;
+    
+
+}
+ 
+.fa-facebook {
+    padding: 10px;
+    margin: 5px;
+    width: 10px;
+    text-align: center;
+    text-decoration: none;
+    color:white;
+    border: 2px double lightcoral;
+    background-color: gray;
+    border-radius: 17px;
+    position: relative;
+    left: 1100px;
+    bottom: 200px;
+    float: right;
+}
+
+
+
+
+
+.fa-twitter {
+   
+    padding: 10px;
+    margin: 5px;
+    width: 10px;
+    text-align: center;
+    text-decoration: none;
+    color:white;
+    border: 2px solid lightcoral;
+    background-color: gray;
+    border-radius: 17px;
+    position: relative;
+    left: 1100px;
+    bottom: 203px;
+    float: right;
+}
+
+.fa-instagram {
+    
+    padding: 10px;
+    margin: 5px;
+    width: 10px;
+    text-align: center;
+    text-decoration: none;
+    color:white;
+    border: 2px solid lightcoral;
+    background-color: gray;
+    border-radius: 17px;
+    position: relative;
+    left: 1100px;
+    bottom: 200px;
+    float: right;
+}
+
+    #About {
+
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: gray;
+    text-decoration: underline;
+    text-decoration-color: lightcoral;
+    text-align: center;
+    position: relative;
+    bottom: 520px;
+    padding: 20px;
+
+    }
+
+
+    #p1 {
+
+        color: #3a4b96;
+        font-family: 'Calibri', sans-serif;
+        font-size: 20px;
+        font-weight: bold;
+        font-style: italic;
+        width: 700px;
+        position: relative;
+        bottom: 550px;
+        left: 100px;
+    }
+
+
+.bexinshanghai {
+    border-radius: 20px;
+    float: right;
+    width: 35%;
+    position: relative;
+    bottom: 573px;
+    right: 50px;
+    margin: 30x;
+    border: 10px double #3a4b96;
+}
+
+.bexinshanghai:hover {
+
+        border-width: 10px;
+        border-style: solid;
+}
+
+#Career {
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: gray;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: lightcoral;
+    position: relative;
+    bottom: 100px;
+    padding: 20px;
+
+}
+
+#careerbit {
+     
+        height: 100vh;
+    }
+
+
+ #p2 {
+
+    position: relative;
+    bottom: 730px;
+    left: 700px;
+    width: 600px;
+    color: #3a4b96;
+    font-family: 'Calibri', sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold
+    
+ }
+ 
+ .stairway {
+
+    max-width: 500px;
+    height: auto;
+    border-radius: 30px;
+    border:  10px double lightcoral;
+    position: relative;
+    bottom: 100px;
+    left: 70px;
+    
+ }
+
+ .stairway:hover {
+
+    border-width: 10px;
+    border-style: solid;
+ }
+
+ #Contact {
+
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: gray;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: #3a4b96;
+    position: relative;
+    bottom: 100px;
+    padding: 20px;
+}
+
+ #getintouch {
+
+    text-align: center;
+    position: relative;
+    right: 200px;
+    bottom: 500px;
+ }
+
+ #getintouch :focus {
+     outline: none;
+ }
+
+
+#firstname {
+
+    width: 300px;
+    height: 30px;
+    border-radius: 20px;
+    border-color: lightcoral;
+    border-width: 7px;
+    border-style: double;
+    margin: 15px;
+    padding: 10px;
+}
+
+#lastname {
+
+    width: 300px;
+    height: 30px;
+    border-radius: 20px;
+    border-color: lightcoral;
+    border-width: 7px;
+    border-style: double;
+    margin: 15px;
+    padding: 10px;
+}
+
+#mainbox {
+
+    width: 300px;
+    height: 150px;
+    border-radius: 25px;
+    border-color: lightcoral;
+    border-width: 7px;
+    border-style: double;
+    margin: 15px;
+    padding: 10px;
+
+}
+    
+
+::placeholder {
+
+    font-size: 18px;
+    color: #3a4b96;
+    font-style: italic;
+}
+
+#submit {
+
+    font-size: 30px;
+    text-align: center;
+    position: relative;
+    left: 200px;
+    top: 40px;
+    border-color: gray;
+    border-radius: 30px;
+    border-width: 3px;
+    border-style: dashed;
+    background-color: lightcoral;
+    height: 50px;
+    color: white;
+}
+
+#submit:hover {
+    border-style: solid;
+    border-width: 5px;
+}
+
+.logocontact {
+
+    max-width: 400px;
+    position: relative;
+    left: 700px;
+    bottom: 95px;
+    border-radius: 20px;
+}
+
+.contactinfo {
+
+    text-align: center;
+    list-style: none;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #3a4b96;
+    position: relative;
+    bottom: 450px;
+
+}
+
+#careerbit {
+     
+    height: 100vh;
+}
+.logobottom {
+
+    text-align: right;
+    max-width: 90px;
+    max-height: auto;
+    border-radius: 20px;
+    position: relative;
+    bottom: 500px;
+}
+
+footer {
+
+    font-size: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #3a4b96;
+    position: relative;
+    bottom: 500px;
+
+
+}
